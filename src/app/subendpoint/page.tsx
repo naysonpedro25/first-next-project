@@ -1,9 +1,9 @@
 import React from 'react';
 
-export default function CuPage (){
+export default function SubEndPointPage (){
     return (
         <div>
-            <h2>Hello cu</h2>
+            <h2>Hello 2</h2>
         </div>
     )
 }
